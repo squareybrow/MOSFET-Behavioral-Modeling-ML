@@ -1,0 +1,36 @@
+LTspice 24.1.10 for Windows
+Circuit: D:\Code\transistor_analysis\code\mosfet.net
+Start Time: Thu Oct 23 12:16:33 2025
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.step vgs=0
+.step vgs=0.5
+.step vgs=1
+.step vgs=1.5
+.step vgs=2
+.step vgs=2.5
+.step vgs=3
+.step vgs=3.5
+.step vgs=4
+.step vgs=4.5
+.step vgs=5
+.step vgs=5.5
+.step vgs=6
+.step vgs=6.5
+.step vgs=7
+.step vgs=7.5
+.step vgs=8
+.step vgs=8.5
+.step vgs=9
+.step vgs=9.5
+.step vgs=10
+Total elapsed time: 1.168 seconds.
+
+Files loaded:
+D:\Code\transistor_analysis\code\mosfet.net
+C:\Users\risha\AppData\Local\LTspice\lib\cmp\standard.mos
+
